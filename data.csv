@@ -1,6 +1,6 @@
 eventUri,start,end,type
-event1,2024-04-25,2024-04-25,voyage
-event2,2024-04-26,2024-04-26,work
-event3,2024-04-27,2024-04-27,work
-event4,2024-04-28,2024-04-28,voyage
-event5,2024-04-29,2024-04-29,work
+event1,2024/04/25,2024/04/25,voyage
+event2,2024/04/26,2024/04/26,work
+event3,2024/04/27,2024/04/27,work
+event4,2024/04/28,2024/04/28,voyage
+event5,2024/04/29,2024/04/29,work
